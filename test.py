@@ -1,4 +1,6 @@
 # Databricks notebook source
 # MAGIC %md # First Git
 # MAGIC 
-# MAGIC 2+222
+# MAGIC %sql
+# MAGIC 
+# MAGIC select * from table where 
